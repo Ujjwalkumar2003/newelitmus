@@ -1,9 +1,10 @@
-Authentication
+<h1> Authentication</h1>
  User Sign up
  User Sign in
  Forgot Password (reset password via email)
  admin login
-Authorization
+
+<h1>Authorization</h1>
 Only logged in users can:
 
  Play game
@@ -13,10 +14,10 @@ Only logged in users can:
  
  
  
- Detailed view of the game
+ <h1>Detailed view of the game</h4>
 The project has been developed as a way to test soft skills, thus it is only one time play for every user.
 
-Completion of the game
+<h1>Completion of the game</h1>
 The game is meant to test the soft skills, thus keeping user stuck on level forever with no form of rescue is futile.
 
 To avoid this Special actions: skip and End Game, are available at each stage so user can skip the stage by discarding the points or end the game if required.
@@ -44,6 +45,6 @@ You may end the game at any time, regardless of what stage you are on and receiv
 
 
 
-<h4>Future Work</h4>
+<h1>Future Work</h1>
 
 Addition of time in game , Deployment of project
