@@ -41,3 +41,9 @@ If you find yourself at a dead end, you can choose to review the previous stage,
 If necessary, you have the option to skip a stage, though this will result in forfeiting any potential points for that stage
 
 You may end the game at any time, regardless of what stage you are on and receive results till there
+
+
+
+<h4>Future Work</h4>
+
+Addition of time in game , Deployment of project
